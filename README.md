@@ -10,11 +10,13 @@ It is written in C++ with portability in mind, with builds actively maintained f
 
 yuzu only emulates a subset of Switch hardware and therefore most commercial games **do not** run at full speed or are not fully functional.
 
+Yuzu also offers a resolution rescaling feature that simulates docked, undocked and beyond-native resolutions.
+
 Do you want to check which games are compatible and which ones are not? Please visit our [Compatibility page](https://yuzu-emu.org/game/)!
 
 yuzu is licensed under the GPLv2 (or any later version). Refer to the license.txt file included.
 
-Check out our [website](https://yuzu-emu.org/)!
+Check out our [website](https://yuzu-emu.org/)! for detailed information. 
 
 For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
 
